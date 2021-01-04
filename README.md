@@ -40,4 +40,4 @@ The model was trained on IAM Dataset. Training Model notebook can be used for tr
 ## THANK YOU
 
 Glad you are here.
-#Open to Network , Interested in working on Small Projects/Applications!
+#Open to Network , Interested in working on Projects/Applications!
